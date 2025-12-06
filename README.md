@@ -68,11 +68,5 @@ To analyze the aircraft fleet across multiple airlines based on aircraft type, o
 
 ---
 
-## 🙋‍♂️ Author
-
-**Rohit Bomte**  
-[LinkedIn](https://www.linkedin.com/in/rohit-bomte)
-
----
 
 > 🚀 Feel free to fork, star ⭐, or contribute to this project if you found it helpful!
